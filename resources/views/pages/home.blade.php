@@ -4,4 +4,5 @@
 
 @section('main-content')
     <h1>Welcome to homepage</h1>
+    @dump($movies)
 @endsection
